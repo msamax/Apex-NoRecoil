@@ -1,2 +1,2 @@
 # Apex-NoRecoil
-AHK NoRecoil
+Run gui.exe
